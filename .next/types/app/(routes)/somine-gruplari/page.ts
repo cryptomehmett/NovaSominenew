@@ -1,4 +1,4 @@
-// File: /Users/mehmetalicakmak/Documents/GitHub/nova-somine-v2/app/(routes)/somine-gruplari/page.tsx
+// File: /Users/mehmetalicakmak/Documents/GitHub/NovaSomine/app/(routes)/somine-gruplari/page.tsx
 import * as entry from '../../../../../app/(routes)/somine-gruplari/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

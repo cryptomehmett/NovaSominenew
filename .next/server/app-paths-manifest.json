@@ -1,7 +1,6 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
   "/(routes)/somine-gruplari/page": "app/(routes)/somine-gruplari/page.js",
-  "/page": "app/page.js",
-  "/(routes)/iletisim/page": "app/(routes)/iletisim/page.js",
-  "/(routes)/uygulamalar/page": "app/(routes)/uygulamalar/page.js"
+  "/(routes)/uygulamalar/page": "app/(routes)/uygulamalar/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js"
 }
