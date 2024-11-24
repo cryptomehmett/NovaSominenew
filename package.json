@@ -19,6 +19,7 @@
     "@nextui-org/tabs": "^2.0.37",
     "@react-pdf-viewer/core": "^3.12.0",
     "@react-pdf-viewer/default-layout": "^3.12.0",
+    "canvas": "^2.11.2",
     "lucide-react": "^0.414.0",
     "material-icons": "^1.13.12",
     "mdb-react-ui-kit": "^9.0.0",

@@ -18,9 +18,9 @@ const pageContent = [
         title: "Elektrikli Şömine Hazneleri ",
         content: "Gaziantep, Adana, Kahramanmaraş, Malatya, Hatay, Şanlıurfa, Adıyaman ve tüm Güneydoğu Bölgesi'ne elektrikli şömine hizmeti de sunmaktayız. Elektrikli şömineler, odun, gaz ya da bio ethanol gibi geleneksel yakıtlar yerine elektrikle çalışan, daha düşük ısıtma kapasitesine sahip (1000–2000 W) modern ısıtma çözümleridir. Bu şömineler, özellikle baca sistemi bulunmayan mekanlarda görsel efekt yaratmak için tercih edilir. Elektrikli şöminelerin en büyük avantajlarından biri, kurulumu ve kullanımı son derece kolay olması, ayrıca temizlik gerektirmemesidir. Uzaktan kumanda ile kolayca kontrol edilebilen bu şömineler, baca bağlantısı gerektirmediği için mekanınıza istediğiniz her yere yerleştirilebilir. Ayrıca, kare, dikdörtgen veya lineer formlarda üretilen elektrikli şöminelere, gerçek şöminelere uygulanan her tarzda dış giydirmeler yaparak, dekoratif açıdan daha şık ve zarif bir görünüm elde edebilirsiniz.",
         images: [
-            "/elekrtikli-1.jpg",
-            "/elekrtikli-2.jpg",
-            "/elekrtikli-3.jpg",
+            "/Şömine Grupları/elekrtikli-1.jpg",
+            "/Şömine Grupları/elekrtikli-2.jpg",
+            "/Şömine Grupları/elekrtikli-3.jpg",
         ],
         pdf: "/katalog.pdf"
     },

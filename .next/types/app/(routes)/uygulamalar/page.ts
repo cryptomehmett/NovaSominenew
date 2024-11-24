@@ -1,4 +1,4 @@
-// File: /Users/mehmetalicakmak/Documents/GitHub/NovaSomine/app/(routes)/uygulamalar/page.tsx
+// File: C:\Users\mehme\OneDrive\Belgeler\GitHub\NovaSominenew\app\(routes)\uygulamalar\page.tsx
 import * as entry from '../../../../../app/(routes)/uygulamalar/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
