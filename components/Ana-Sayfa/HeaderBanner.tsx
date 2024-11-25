@@ -73,7 +73,8 @@ export const HeaderBanner = () => {
           </div>
 
           {/* Butonlar sadece masaüstü için görünür */}
-<div className='absolute bottom-10 left-0 right-0 w-fit mx-auto hidden md:flex gap-8'>
+
+          <div className='absolute top-[calc(100vh-300px)] left-0 right-0 w-fit mx-auto hidden md:flex gap-8'>
   <div onClick={prevSlide} className='w-14 h-12 border-[#acacac] flex items-center justify-center
     hover:cursor-pointer hover:bg-orange-400 hover:text-white active:bg-gray-900 duration-300'>
     <Image src="/left_arrow.svg" alt='left_arrow' width={10} height={10} />
@@ -83,6 +84,8 @@ export const HeaderBanner = () => {
     <Image src="/right_arrow.svg" alt='right_arrow' width={10} height={10} />
   </div>
 </div>
+
+
 
         </div>
       </div>
