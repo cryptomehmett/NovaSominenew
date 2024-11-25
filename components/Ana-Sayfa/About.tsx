@@ -65,14 +65,14 @@ const About = () => {
                         <div
                             className={`absolute inset-0 transition-opacity duration-500 ease-in-out ${isOn ? 'opacity-100' : 'opacity-0'}`}
                         >
-                            <Image src="/gallery/açık.png" alt="açık" layout="fill" objectFit="cover" />
+                            <Image src="/galleryimg/açık.png" alt="açık" layout="fill" objectFit="cover" />
                         </div>
 
                         {/* Image shown when isOn is false */}
                         <div
                             className={`absolute inset-0 transition-opacity duration-500 ease-in-out ${isOn ? 'opacity-0' : 'opacity-100'}`}
                         >
-                            <Image src="/gallery/kapalı.png" alt="kapalı" layout="fill" objectFit="cover" />
+                            <Image src="/galleryimg/kapalı.png" alt="kapalı" layout="fill" objectFit="cover" />
                         </div>
                     </div>
 

@@ -17,22 +17,6 @@
       "static/chunks/main-app.js",
       "static/css/app/(routes)/uygulamalar/page.css",
       "static/chunks/app/(routes)/uygulamalar/page.js"
-    ],
-    "/(routes)/somine-gruplari/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(routes)/somine-gruplari/page.js"
-    ],
-    "/(routes)/somine-gruplari/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/(routes)/somine-gruplari/[id]/page.css",
-      "static/chunks/app/(routes)/somine-gruplari/[id]/page.js"
-    ],
-    "/_not-found/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
     ]
   }
 }

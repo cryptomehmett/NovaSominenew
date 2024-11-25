@@ -1,4 +1,4 @@
-// File: /Users/mehmetalicakmak/Documents/GitHub/NovaSomine/app/layout.tsx
+// File: /Users/mehmetalicakmak/Documents/GitHub/nova-somine-v2/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

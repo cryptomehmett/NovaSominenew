@@ -9,14 +9,19 @@ const Odun = () => {
   const [imgPop, setImgPop] = useState<boolean>(false);
   const filteredData = db.gallery.filter(item => item.id === 3);
 
+  // Resim değiştirme fonksiyonu
   const swipeImg = (moveType: string) => {
+    const totalImages = filteredData.length;  // Filtrelenmiş veri uzunluğu
+
     if (moveType === "prv") {
-      if (selectedImg === 0) setSelectedImg(db.gallery.length - 1);
+      // İlk resimden önceki resme gitmek için son resme dönüyoruz
+      if (selectedImg === 0) setSelectedImg(totalImages - 1);
       else setSelectedImg(selectedImg - 1);
     }
 
     if (moveType === "nxt") {
-      if (selectedImg === db.gallery.length - 1) setSelectedImg(0);
+      // Son resimden sonra ilk resme gitmek için başa dönüyoruz
+      if (selectedImg === totalImages - 1) setSelectedImg(0);
       else setSelectedImg(selectedImg + 1);
     }
   };
